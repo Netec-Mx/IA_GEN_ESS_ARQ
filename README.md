@@ -1,3 +1,5 @@
+<img src="images/neteclogo (2).png" alt="logo" width="300"/>
+
 # IA Generativa Foundations
 
 Curso práctico y conciso que explica principios de GenAI, LLMs, prompting y RAG
@@ -32,8 +34,13 @@ Curso práctico y conciso que explica principios de GenAI, LLMs, prompting y RAG
   - Descripción: Realizar la práctica Práctica 4. pipeline de ingestión y creación de índice vectorial aplicando los conceptos del capítulo.
   - Duración estimada: 72 min
 
-## Flujo de colaboración
+  
+---
 
-- Trabajar en `changes_course`.
-- Crear Pull Request hacia `main`.
-- Merge por `Squash and merge`.
+## 📬 **Contacto y más información**
+
+Si tienes alguna pregunta o necesitas más detalles, no dudes en [contactarnos](mailto:soporte@netec.com). También puedes encontrar más recursos en nuestra [página](https://netec.com).
+
+---
+
+¡Gracias por visitar nuestra plataforma! No olvides revisar todos los laboratorios y comenzar tu viaje de aprendizaje hoy mismo.
